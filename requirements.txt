@@ -258,7 +258,6 @@ service-identity==18.1.0
 simplegeneric==0.8.1
 simplejson==3.17.2
 singledispatch==3.4.0.3
-sip==4.19.13
 six==1.15.0
 sklearn==0.0
 smart-open==5.0.0
