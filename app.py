@@ -19,7 +19,7 @@ def classify(document):
     X = vect.transform([document])
     y = clf.predict(X)[0]
     print(y)
-    proba = np.max(clf.predict_proba(X)
+    proba = np.max(clf.predict_proba(X))
     return label[y], proba
 def train(document, y):
     X = vect.transform([document])
