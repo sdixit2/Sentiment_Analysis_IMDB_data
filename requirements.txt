@@ -255,7 +255,6 @@ seaborn==0.11.0
 Send2Trash==1.5.0
 sentry-sdk==0.10.2
 service-identity==18.1.0
-Shapely==1.6.4.post1
 simplegeneric==0.8.1
 simplejson==3.17.2
 singledispatch==3.4.0.3
